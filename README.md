@@ -1,2 +1,2 @@
 softweb
-latest
+latest cfg
